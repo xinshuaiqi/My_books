@@ -1,4 +1,4 @@
-# ML in genomics
+# Machine Learning in genomics
 
 [TOC]
 
@@ -49,6 +49,16 @@ A curated list of awesome deep learning applications in the field of **computati
 [TensorFlow 官方文档中文版](http://docs.pythontab.com/tensorflow/)
 
 [莫烦python](https://morvanzhou.github.io/) (python 入门+ Machine Learning)
+
+
+
+Youtube
+
+[Deep learning for genomics - Anshul Kundaje](https://youtu.be/X5mdoxR9qag)
+
+[James Zou: "Deep learning for genomics: Introduction and examples"](https://youtu.be/JYt1IqdDAPc)
+
+
 
 
 
@@ -122,6 +132,24 @@ An interview with Brendan Frey about realizing new possibilities in genomic medi
 
 
 
+[Evaluation of convolutionary neural networks modeling of DNA sequences using ordinal versus one-hot encoding method](https://ieeexplore.ieee.org/abstract/document/8270400)
+
+```markdown
+# Abstract:
+Convolutionary neural network (CNN) is a popular choice for supervised DNA motif prediction due to its excellent performances. To employ CNN, the input DNA sequences are required to be encoded as numerical values and represented as either vectors or multi-dimensional matrices. This paper evaluated a simple and more compact ordinal encoding method versus the popular one-hot encoding for DNA sequences. 
+
+We compared the performances of both encoding methods using three sets of datasets enriched with DNA motifs. We found that 
+1. the ordinal encoding performs comparable to the one-hot method but with significant reduction in training time. 
+2. In addition, the one-hot encoding performances were rather consistent across various datasets but would require suitable CNN configuration to perform well. 
+3. The ordinal encoding with matrix representation performed best in some of the evaluated datasets. 
+
+This study implied that the performances of CNN for DNA motif discovery depends on the suitable design of the sequence encoding and representation. The good performances of the ordinal encoding method demonstrates that there are still rooms for improvement for the one-hot encoding method.
+```
+
+
+
+ 
+
 ## Books
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?ie=UTF8&qid=1537500797&sr=8-3&keywords=machine+learning&dpID=51%252BkYprYK1L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
@@ -136,9 +164,19 @@ An interview with Brendan Frey about realizing new possibilities in genomic medi
 
 [pysster](https://github.com/budach/pysster): 
 
-	 training and interpretation of convolutional neural networks on biological sequence data
+**One_Hot_Encoder**
 
+	 training and interpretation of convolutional neural networks on biological sequence data
+	
 	**One_Hot_Encoder**
+
+Nucleus：基因组学的 TensorFlow 工具包（TensorFlow 开发顶峰 2018）
+
+[Nucleus github ](https://github.com/google/nucleus)
+
+	[Video](https://www.youtube.com/watch?v=7wi9NdGh9oI&feature=share)
+
+[DeepVariant github](https://github.com/google/deepvariant)
 
 
 
