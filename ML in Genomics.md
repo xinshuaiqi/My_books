@@ -42,13 +42,23 @@ A list of deep learning implementations in **biology**: [link](https://github.co
 
 A curated list of awesome deep learning applications in the field of **computational biology** [link](https://github.com/gokceneraslan/awesome-deepbio)
 
+**[Practical Deep Learning For Coders**](http://course.fast.ai/)
 
+
+
+### Basic
 
 [Keras Documentation](https://keras.io/) and [中文文档](https://keras-cn.readthedocs.io/en/latest/)
 
 [TensorFlow 官方文档中文版](http://docs.pythontab.com/tensorflow/)
 
 [莫烦python](https://morvanzhou.github.io/) (python 入门+ Machine Learning)
+
+
+
+
+
+
 
 
 
@@ -122,6 +132,30 @@ An interview with Brendan Frey about realizing new possibilities in genomic medi
 
 
 
+##### "Whole-genome deep learning analysis reveals causal role of noncoding mutations in autism", Zhou et al 2018 <https://t.co/gv8KodjhDr>
+
+
+
+### @@[Deep learning of genomic variation and regulatory network data](https://academic.oup.com/hmg/article-abstract/27/R1/R63/4966854)
+
+[A Telenti](https://scholar.google.com/citations?user=YkSJ7-8AAAAJ&hl=en&oi=sra), [C Lippert](https://scholar.google.com/citations?user=RVl8TE0AAAAJ&hl=en&oi=sra), [PC Chang](https://scholar.google.com/citations?user=8_8omVoAAAAJ&hl=en&oi=sra)… - Human molecular …, 2018 - academic.oup.com
+
+
+
+
+
+###  [**Opportunities** and **obstacles** for **deep learning** in **biology** and **medicine**](http://rsif.royalsocietypublishing.org/content/15/141/20170387.abstract)
+
+T Ching, [DS Himmelstein](https://scholar.google.com/citations?user=x9OwD9oAAAAJ&hl=en&oi=sra)… - Journal of The …, 2018 - rsif.royalsocietypublishing.org
+
+```markdown
+
+```
+
+
+
+
+
 ## Books
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?ie=UTF8&qid=1537500797&sr=8-3&keywords=machine+learning&dpID=51%252BkYprYK1L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
@@ -132,13 +166,30 @@ An interview with Brendan Frey about realizing new possibilities in genomic medi
 
 
 
+[Deep Learning for Genomics: A Concise Overview](https://arxiv.org/abs/1802.00810)
+
+
+
+[Deep learning for biology](https://www.nature.com/articles/d41586-018-02174-z)
+
 ## Tools
 
 [pysster](https://github.com/budach/pysster): 
 
 	 training and interpretation of convolutional neural networks on biological sequence data
-
+	
 	**One_Hot_Encoder**
 
 
 
+start-up
+
+https://www.deepgenomics.com/
+
+
+
+### blogs
+
+TRAINING AND APPLYING GENOMIC DEEP LEARNING MODELS
+
+https://blog.dnanexus.com/2018-05-31-training-and-applying-genomic-deep-learning-models/
