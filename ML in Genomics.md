@@ -42,7 +42,11 @@ A list of deep learning implementations in **biology**: [link](https://github.co
 
 A curated list of awesome deep learning applications in the field of **computational biology** [link](https://github.com/gokceneraslan/awesome-deepbio)
 
+**[Practical Deep Learning For Coders**](http://course.fast.ai/)
 
+
+
+### Basic
 
 [Keras Documentation](https://keras.io/) and [中文文档](https://keras-cn.readthedocs.io/en/latest/)
 
@@ -52,6 +56,7 @@ A curated list of awesome deep learning applications in the field of **computati
 
 
 
+<<<<<<< HEAD
 Youtube
 
 [Deep learning for genomics - Anshul Kundaje](https://youtu.be/X5mdoxR9qag)
@@ -76,6 +81,8 @@ see my github for the downloaed course material
 
 
 
+=======
+>>>>>>> 776b3d119837baa08a8d739438517a5758cfce3a
 
 
 
@@ -152,7 +159,35 @@ An interview with Brendan Frey about realizing new possibilities in genomic medi
 
 
 
+<<<<<<< HEAD
 [Evaluation of convolutionary neural networks modeling of DNA sequences using ordinal versus one-hot encoding method](https://ieeexplore.ieee.org/abstract/document/8270400)
+=======
+##### "Whole-genome deep learning analysis reveals causal role of noncoding mutations in autism", Zhou et al 2018 <https://t.co/gv8KodjhDr>
+
+
+
+### @@[Deep learning of genomic variation and regulatory network data](https://academic.oup.com/hmg/article-abstract/27/R1/R63/4966854)
+
+[A Telenti](https://scholar.google.com/citations?user=YkSJ7-8AAAAJ&hl=en&oi=sra), [C Lippert](https://scholar.google.com/citations?user=RVl8TE0AAAAJ&hl=en&oi=sra), [PC Chang](https://scholar.google.com/citations?user=8_8omVoAAAAJ&hl=en&oi=sra)… - Human molecular …, 2018 - academic.oup.com
+
+
+
+
+
+###  [**Opportunities** and **obstacles** for **deep learning** in **biology** and **medicine**](http://rsif.royalsocietypublishing.org/content/15/141/20170387.abstract)
+
+T Ching, [DS Himmelstein](https://scholar.google.com/citations?user=x9OwD9oAAAAJ&hl=en&oi=sra)… - Journal of The …, 2018 - rsif.royalsocietypublishing.org
+
+```markdown
+
+```
+
+
+
+
+
+## Books
+>>>>>>> 776b3d119837baa08a8d739438517a5758cfce3a
 
 ```markdown
 # Abstract:
@@ -178,12 +213,21 @@ This study implied that the performances of CNN for DNA motif discovery depends 
 
 
 
+[Deep Learning for Genomics: A Concise Overview](https://arxiv.org/abs/1802.00810)
+
+
+
+[Deep learning for biology](https://www.nature.com/articles/d41586-018-02174-z)
+
 ## Tools
 
 [pysster](https://github.com/budach/pysster): 
 
+<<<<<<< HEAD
 **One_Hot_Encoder**
 
+=======
+>>>>>>> 776b3d119837baa08a8d739438517a5758cfce3a
 	 training and interpretation of convolutional neural networks on biological sequence data
 	
 	**One_Hot_Encoder**
@@ -198,3 +242,14 @@ Nucleus：基因组学的 TensorFlow 工具包（TensorFlow 开发顶峰 2018）
 
 
 
+start-up
+
+https://www.deepgenomics.com/
+
+
+
+### blogs
+
+TRAINING AND APPLYING GENOMIC DEEP LEARNING MODELS
+
+https://blog.dnanexus.com/2018-05-31-training-and-applying-genomic-deep-learning-models/
