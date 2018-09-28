@@ -60,6 +60,26 @@ Youtube
 
 
 
+#### [James Zhou Teaching](https://sites.google.com/site/jamesyzou/teaching)
+
+**CS 329M Algorithms of advanced machine learning.**  **(website)**https://canvas.stanford.edu/courses/51037
+
+**CS 273B Deep learning in genomics and bio-medicine.** **(website)** https://canvas.stanford.edu/courses/66218/
+
+see my github for the downloaed course material
+
+
+
+#### [Anshul Kundaje Teaching](https://sites.google.com/site/anshulkundaje/teaching)
+
+### Tutorials: https://sites.google.com/site/anshulkundaje/inotes
+
+
+
+
+
+
+
 
 
 ## Papers:
@@ -153,8 +173,6 @@ This study implied that the performances of CNN for DNA motif discovery depends 
 ## Books
 
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?ie=UTF8&qid=1537500797&sr=8-3&keywords=machine+learning&dpID=51%252BkYprYK1L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch)
-
-
 
 [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?ie=UTF8&qid=1537500853&sr=8-1&keywords=the+elements+of+statistical+learning&dpID=41aQrQaPseL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 
