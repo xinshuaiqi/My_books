@@ -154,6 +154,12 @@ T Ching, [DS Himmelstein](https://scholar.google.com/citations?user=x9OwD9oAAAAJ
 
 
 
+TRAINING AND APPLYING GENOMIC DEEP LEARNING MODELS
+
+https://blog.dnanexus.com/2018-05-31-training-and-applying-genomic-deep-learning-models/
+
+
+
 
 
 ## Books
@@ -180,6 +186,12 @@ T Ching, [DS Himmelstein](https://scholar.google.com/citations?user=x9OwD9oAAAAJ
 	
 	**One_Hot_Encoder**
 
+Clairvoyante: a multi-task convolutional deep neural network for variant calling in Single Molecule Sequencing
+
+https://www.biorxiv.org/content/early/2018/04/28/310458
+
+
+
 
 
 start-up
@@ -190,6 +202,3 @@ https://www.deepgenomics.com/
 
 ### blogs
 
-TRAINING AND APPLYING GENOMIC DEEP LEARNING MODELS
-
-https://blog.dnanexus.com/2018-05-31-training-and-applying-genomic-deep-learning-models/
